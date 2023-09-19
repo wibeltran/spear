@@ -209,6 +209,7 @@ namespace Spear.Dapper
             return PagedListAsync<T>(conn, page, size, param, formatSql).SyncRun();
         }
 
+
         /// <summary> 分页列表 </summary>
         /// <typeparam name="T"></typeparam>
         /// <param name="page"></param>
