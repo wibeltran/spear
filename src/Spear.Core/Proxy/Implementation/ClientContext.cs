@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 
+
 namespace Spear.Core.Proxy
 {
     public class ClientContext
